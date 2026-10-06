@@ -6,7 +6,7 @@ Atualmente atuo com implantação e suporte de **soluções forenses** corporati
 
 Ao longo da minha carreira, venho buscando aprofundar meus conhecimentos em sistemas operacionais, redes, cloud computing, automação e ferramentas de segurança, sempre com o objetivo de construir ambientes mais seguros e eficientes.
 
-- [Perfil do LinkedIn](www.linkedin.com/in/rodrigorcouto)
+- LinkedIn: @rodrigorcouto
 
 
 ## 🚀 Áreas de Interesse
@@ -33,3 +33,4 @@ Ao longo da minha carreira, venho buscando aprofundar meus conhecimentos em sist
 Meu objetivo é evoluir constantemente como profissional de tecnologia, construindo soluções que gerem valor real para pessoas e empresas, enquanto avanço minha jornada rumo à especialização em Segurança da Informação e Resposta a Incidentes.
 
 - [Laboratório de Wazuh](https://github.com/rodrigorcouto/wazuh-lab)
+- [Laboratório de Cellebrite: Commander](https://github.com/rodrigorcouto/cellebrite-commander-lab/)
