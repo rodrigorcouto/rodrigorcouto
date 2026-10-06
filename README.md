@@ -32,5 +32,6 @@ Ao longo da minha carreira, venho buscando aprofundar meus conhecimentos em sist
 
 Meu objetivo é evoluir constantemente como profissional de tecnologia, construindo soluções que gerem valor real para pessoas e empresas, enquanto avanço minha jornada rumo à especialização em Segurança da Informação e Resposta a Incidentes.
 
-- [Laboratório de Wazuh](https://github.com/rodrigorcouto/wazuh-lab)
+- [Antimalware Detection Lab](https://github.com/rodrigorcouto/antimalware-detection-lab/)
 - [Laboratório de Cellebrite: Commander](https://github.com/rodrigorcouto/cellebrite-commander-lab/)
+- [Laboratório de Wazuh](https://github.com/rodrigorcouto/wazuh-lab)
