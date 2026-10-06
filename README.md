@@ -15,4 +15,4 @@ Analista de TI focado em Infraestrutura, Cibersegurança e Forense Digital.
  
 ## Projetos
  
-- Laboratório Wazuh
+- Laboratório Wazuh](https://github.com/rodrigorcouto/wazuh-lab)
