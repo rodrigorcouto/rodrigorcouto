@@ -6,9 +6,7 @@ Atualmente atuo com implantação e suporte de **soluções forenses** corporati
 
 Ao longo da minha carreira, venho buscando aprofundar meus conhecimentos em sistemas operacionais, redes, cloud computing, automação e ferramentas de segurança, sempre com o objetivo de construir ambientes mais seguros e eficientes.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?usernamehow_icons=true&theme=tokyonight
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoract&theme=tokyonight
+- LinkedIn: @rodrigorcouto
 
 ## 🚀 Áreas de Interesse
 
