@@ -6,7 +6,9 @@ Atualmente atuo com implantação e suporte de **soluções forenses** corporati
 
 Ao longo da minha carreira, venho buscando aprofundar meus conhecimentos em sistemas operacionais, redes, cloud computing, automação e ferramentas de segurança, sempre com o objetivo de construir ambientes mais seguros e eficientes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Couto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](nkedin.com/in/rodrigorcouto/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?usernamehow_icons=true&theme=tokyonight
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoract&theme=tokyonight
 
 ## 🚀 Áreas de Interesse
 
