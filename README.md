@@ -6,7 +6,7 @@ Atualmente atuo com implantação e suporte de **soluções forenses** corporati
 
 Ao longo da minha carreira, venho buscando aprofundar meus conhecimentos em sistemas operacionais, redes, cloud computing, automação e ferramentas de segurança, sempre com o objetivo de construir ambientes mais seguros e eficientes.
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitekedin.com/in/rodrigorcouto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rodrigorcouto)
 
 ## 🚀 Áreas de Interesse
 
