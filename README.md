@@ -34,6 +34,6 @@ Meu objetivo é evoluir constantemente como profissional de tecnologia, construi
 - [Antimalware Detection Lab](https://github.com/rodrigorcouto/antimalware-detection-lab/)
 - [Laboratório de Cellebrite: Commander](https://github.com/rodrigorcouto/cellebrite-commander-lab/)
 - [Laboratório de Wazuh](https://github.com/rodrigorcouto/wazuh-lab)
-- [Laboratório de Docker: Wazuh](https://github.com/rodrigorcouto/docker-wazuh-lab)
+- Docker Labs: [Docker Compose: Wazuh](https://github.com/rodrigorcouto/docker-wazuh-lab)
 
 - Troubleshooting: [Correção de Conectividade SSH](https://github.com/rodrigorcouto/troubleshooting-ssh-connection)
